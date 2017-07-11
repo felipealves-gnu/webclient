@@ -75,7 +75,5 @@ hs_err_pid*
 # .idea/misc.xml
 # *.ipr
 .idea/
-pom.xml
-src/
 target/
 webclient.iml
